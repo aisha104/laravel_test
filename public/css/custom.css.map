@@ -1,0 +1,1 @@
+{"version":3,"file":"css/custom.css","mappings":"AAAA,aACI,wBACJ,C","sources":["webpack:///./resources/css/custom.css"],"sourcesContent":[".card-header {\r\n    background-color: darksalmon;\r\n}"],"names":[],"sourceRoot":""}
